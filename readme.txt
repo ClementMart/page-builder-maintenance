@@ -1,4 +1,4 @@
-=== Page Builder Maintenance ===
+=== CM Page Builder Maintenance ===
 Contributors: clemart
 Tags: page builder, maintenance, elementor, divi, gutenberg, beaver builder
 Requires at least: 4.9
@@ -16,6 +16,9 @@ Maintenance plugin, but redirect to homepage, so page builders are compatible (E
 Activate the plugin to enable maintenance mode. All non-logged-in users visiting any page other than the homepage will be redirected to the homepage with a proper 503 HTTP status code and a Retry-After header, signaling search engines that the unavailability is temporary.
 
 == Changelog ==
+= 0.3 =
+* Name changed for WordPress plugin naming requirments
+
 = 0.2 =
 * Replaced wp_redirect() with wp_safe_redirect() for improved security
 * Added 503 Service Unavailable HTTP status header

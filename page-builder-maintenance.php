@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Page Builder Maintenance
+Plugin Name: CM Page Builder Maintenance
 Description: Maintenance plugin, but redirect to homepage, so page builders are compatible (Elementor, Beaver Builder, Divi, Gutenberg etc)
 Author: Clément MARTINEZ
 Author URI: https://clementmartinez.fr/
