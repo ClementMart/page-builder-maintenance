@@ -1,0 +1,56 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CM Page Builder Maintenance 1.0\n"
+"POT-Creation-Date: 2025-01-01 10:00+0100\n"
+"PO-Revision-Date: 2025-01-01 10:00+0100\n"
+"Last-Translator: Clément Martinez <contact@clementmartinez.fr>\n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Page Builder Maintenance"
+msgstr "Page Builder Maintenance"
+
+msgid "Maintenance Settings"
+msgstr "Réglages de maintenance"
+
+msgid "Maintenance mode"
+msgstr "Mode maintenance"
+
+msgid "Enable maintenance mode"
+msgstr "Activer le mode maintenance"
+
+msgid "Minimum role to bypass"
+msgstr "Rôle minimum pour accéder au site"
+
+msgid "Subscriber and above"
+msgstr "Abonné et au-dessus"
+
+msgid "Contributor and above"
+msgstr "Contributeur et au-dessus"
+
+msgid "Author and above"
+msgstr "Auteur et au-dessus"
+
+msgid "Editor and above"
+msgstr "Éditeur et au-dessus"
+
+msgid "Administrator only"
+msgstr "Administrateur uniquement"
+
+msgid "Whitelisted URLs"
+msgstr "URLs autorisées"
+
+msgid "One URL path per line. Example: /contact"
+msgstr "Un chemin par ligne. Exemple : /contact"
+
+msgid "Settings"
+msgstr "Réglages"
