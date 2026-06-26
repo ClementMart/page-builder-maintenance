@@ -4,13 +4,13 @@ Plugin Name: CM Page Builder Maintenance
 Description: Maintenance plugin, but redirect to homepage, so page builders are compatible (Elementor, Beaver Builder, Divi, Gutenberg etc)
 Author: Clément MARTINEZ
 Author URI: https://clementmartinez.fr/
-Version: 0.2
+Version: 0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 defined( 'ABSPATH' ) or die( '!' );
 
-define( 'PAGE_BUILDER_MAINTENANCE_VERSION', '0.2' );
+define( 'PAGE_BUILDER_MAINTENANCE_VERSION', '0.3' );
 
 function cm_page_builder_maintenance_init() {
     if ( is_front_page() ) return;
